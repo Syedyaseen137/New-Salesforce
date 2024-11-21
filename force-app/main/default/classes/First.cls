@@ -1,11 +1,14 @@
 public with sharing class First {
     public First() {
         System.debug('First Apex Program!!');
+<<<<<<< HEAD
         System.debug('Second commit');
         System.debug('Third commit');
         System.debug('First Apex program with lot of confusion');
         ystem.debug('First Apex program with lot of merge and commit');
         
+=======
+>>>>>>> master
 
     }
 }
